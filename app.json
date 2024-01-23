@@ -1,18 +1,18 @@
 {
-   "name": "™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍",
+   "name": "⚡ DEVIL ⚡🫧",
    "description": "POWERFULLY BAN ALL BOT",
-   "repository": "https://github.com/PRADHAN474/BANALLBOT",
-   "logo": "https://graph.org/file/b0825ba6490d2aa6a6afd.jpg",
+   "repository": "https://github.com/Samyak1222/BANALLBOT",
+   "logo": "https://telegra.ph/file/8bfded5f818dc3c95670e.jpg",
    "image": "heroku/python",
    "env": {
       "API_ID": {
         "description": "",
-        "value": "20310034",
+        "value": "27825930",
         "required": true
       },
       "API_HASH": {
         "description": "",
-        "value": "e0d2c11f4ba291ce596868e73df87519",
+        "value": "834bde8b9f0e1977defdbbe85149f808",
         "required": true
       },
       "BOT_TOKEN": {
@@ -22,7 +22,7 @@
       },      
       "SUDO": {
             "description": "",
-            "value": "5059737154 5911205161",
+            "value": "6321315638",
             "required": true  
       }
    },
