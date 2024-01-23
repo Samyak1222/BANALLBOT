@@ -1,6 +1,6 @@
 # ⚡ DEVIL ⚡🫧 Ban All Bot
 
-![™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍](https://telegra.ph/file/8bfded5f818dc3c95670e.jpg) <!-- Add your bot's logo here -->
+![⚡ DEVIL ⚡🫧](https://telegra.ph/file/8bfded5f818dc3c95670e.jpg) <!-- Add your bot's logo here -->
 
 Welcome to the Telegram Ban All Bot, created by @oxyhu. This bot is designed to streamline administrative tasks in your Telegram group, making it easier to manage your community.
 
@@ -15,7 +15,7 @@ Welcome to the Telegram Ban All Bot, created by @oxyhu. This bot is designed to 
 
 ## Deploy to Heroku
 
-Deploying this bohttps://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/BANALLBOTt to Heroku is a breeze! Simply click the "Deploy to Heroku" button below to get started:
+Deploying this bohttps://dashboard.heroku.com/new?template=https://github.com/Samyak1222/BANALLBOT to Heroku is a breeze! Simply click the "Deploy to Heroku" button below to get started:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Samyak1222/BANALLBOT)
 
