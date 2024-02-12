@@ -1,6 +1,6 @@
 #  Copyright (c) 2022 @oxyhu - OXYEGN
 # Telegram Ban All Bot 
-# Creator - oxygen
+# Creator - Devil
 
 import logging
 import re
